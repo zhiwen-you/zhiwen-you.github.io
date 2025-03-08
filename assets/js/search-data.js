@@ -429,7 +429,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-party-popper-party-popper-party-popper-beyond-binary-gender-labels-is-accepted-by-the-5th-workshop-on-gender-bias-in-natural-language-processing-co-located-at-acl-2024",
+            },},{id: "news-sparkles-we-won-the-first-place-trophy-at-biolaysumm-competition-over-53-teams",
+          title: ':sparkles: We won the first place :trophy: at BioLaySumm competition over 53 teams!...',
+          description: "",
+          section: "News",},{id: "news-party-popper-party-popper-party-popper-beyond-binary-gender-labels-is-accepted-by-the-5th-workshop-on-gender-bias-in-natural-language-processing-co-located-at-acl-2024",
           title: ':party_popper::party_popper::party_popper:Beyond Binary Gender Labels is accepted by the 5th Workshop on Gender Bias...',
           description: "",
           section: "News",},{id: "news-received-researcher-access-award-from-openai-sparkles-smile",
