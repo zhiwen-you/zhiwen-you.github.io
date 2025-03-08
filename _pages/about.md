@@ -1,13 +1,25 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Hi!</a> I’m a second-year PhD student in Information Sciences at the University of Illinois Urbana-Champaign ([UIUC personal webpage](https://ischool.illinois.edu/people/zhiwen-jerome-you)). I am fortunately co-advised by [Dr. Yue Guo](https://yueguo-50.github.io/) and [Dr. Jana Diesner](https://jdiesnerlab.ischool.illinois.edu/). I also received my Master degree from UIUC. I'm an alumni of [The Center for Artificial Intelligence Innovation (CAII)](https://ai.ncsa.illinois.edu/) at National Center for Supercomputing Applications (NCSA).
+
+
+## <a href='#'>Research Interests</a>
+
+I broadly work within the scope of Natural Language Processing and AI for Health.
+
+Some of my current interests include:
+
+- **Factuality evaluation and mitigation in summarization**, especially in biomedical and health domains. Standard factuality evaluation approaches fail to evaluate hallucinated but factual information that is not stated in the source documents. How to leverage the domain-specific knowledge to accurately detect such content and mitigate factual errors in LLM-generated summaries?
+
+- **Bias / Fairness of Large Language Models**. LLM-generated content can be biased in various dimensions, such as gender, ethics, morality, and more. How those biases are encoded and produced inside the internal representations of LLMs? Can we modify and control them?
+
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -17,14 +29,4 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
