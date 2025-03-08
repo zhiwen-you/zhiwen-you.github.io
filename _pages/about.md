@@ -18,10 +18,10 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Hi! I’m a second-year PhD student in Information Sciences at the University of Illinois Urbana-Champaign ([UIUC personal webpage](https://ischool.illinois.edu/people/zhiwen-jerome-you)). I am fortunately co-advised by [Dr. Yue Guo](https://yueguo-50.github.io/) and [Dr. Jana Diesner](https://jdiesnerlab.ischool.illinois.edu/). I also received my Master degree from UIUC. I'm an alumni of [The Center for Artificial Intelligence Innovation (CAII)](https://ai.ncsa.illinois.edu/) at National Center for Supercomputing Applications (NCSA).
+Hi! I’m a second-year PhD student in Information Sciences at the University of Illinois Urbana-Champaign ([UIUC personal webpage](https://ischool.illinois.edu/people/zhiwen-jerome-you)). I am fortunately co-advised by [Dr. Yue Guo](https://yueguo-50.github.io/) and [Dr. Jana Diesner](https://jdiesnerlab.ischool.illinois.edu/). I also received my Master degree from UIUC. I'm an alumnus of [the Center for Artificial Intelligence Innovation (CAII)](https://ai.ncsa.illinois.edu/) at the National Center for Supercomputing Applications (NCSA).
 
 
-## Research Interests
+### Research Interests
 I broadly work within the scope of Natural Language Processing and AI for Health.
 
 Some of my current interests include:
