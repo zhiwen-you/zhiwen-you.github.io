@@ -436,7 +436,7 @@ ninja.data = [{
           title: ':party_face: :party_face: :party_face: Beyond Binary Gender Labels is accepted by the 5th Workshop...',
           description: "",
           section: "News",},{id: "news-party-popper-party-popper-party-popper-uiuc-bionlp-at-biolaysumm-is-accepted-by-the-23th-bionlp-workshop-co-located-with-acl-2024",
-          title: ':party_popper::party_popper::party_popper:UIUC_BioNLP at BioLaySumm is accepted by the 23th BioNLP Workshop co-located with ACL...',
+          title: ':party_popper: :party_popper: :party_popper: UIUC_BioNLP at BioLaySumm is accepted by the 23th BioNLP Workshop...',
           description: "",
           section: "News",},{id: "news-sparkles-received-researcher-access-award-from-openai",
           title: ':sparkles: Received Researcher Access Award from OpenAI!',
