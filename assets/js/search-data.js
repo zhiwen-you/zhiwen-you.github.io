@@ -429,8 +429,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-sparkles-we-won-the-first-place-trophy-at-biolaysumm-competition-over-53-teams",
-          title: ':sparkles: We won the first place :trophy: at BioLaySumm competition over 53 teams!...',
+            },},{id: "news-we-won-the-first-place-trophy-at-biolaysumm-competition-over-53-teams",
+          title: 'We won the first place :trophy: at BioLaySumm competition over 53 teams!',
           description: "",
           section: "News",},{id: "news-beyond-binary-gender-labels-is-accepted-by-the-5th-workshop-on-gender-bias-in-natural-language-processing-co-located-with-acl-2024",
           title: '🎉 Beyond Binary Gender Labels is accepted by the 5th Workshop on Gender...',
