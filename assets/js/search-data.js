@@ -432,12 +432,10 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-sciprompt-is-accepted-by-emnlp-2024-main-conference-see-you-in-miami",
+          title: 'SciPrompt is accepted by EMNLP 2024 Main conference! See you in Miami',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-submitted-two-papers-to-arr-february-pre-print-papers-will-be-available-soon",
+          section: "News",},{id: "news-submitted-two-papers-to-arr-february-pre-print-papers-will-be-available-soon",
           title: 'Submitted two papers to ARR February. Pre-print papers will be available soon!',
           description: "",
           section: "News",},{id: "projects-project-1",
