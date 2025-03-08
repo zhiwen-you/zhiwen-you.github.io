@@ -433,7 +433,7 @@ ninja.data = [{
           title: ':sparkles: We won the first place :trophy: at BioLaySumm competition over 53 teams!...',
           description: "",
           section: "News",},{id: "news-party-face-party-face-party-face-beyond-binary-gender-labels-is-accepted-by-the-5th-workshop-on-gender-bias-in-natural-language-processing-co-located-with-acl-2024",
-          title: ':party_face::party_face::party_face:Beyond Binary Gender Labels is accepted by the 5th Workshop on Gender Bias...',
+          title: ':party_face: :party_face: :party_face: Beyond Binary Gender Labels is accepted by the 5th Workshop...',
           description: "",
           section: "News",},{id: "news-party-popper-party-popper-party-popper-uiuc-bionlp-at-biolaysumm-is-accepted-by-the-23th-bionlp-workshop-co-located-with-acl-2024",
           title: ':party_popper::party_popper::party_popper:UIUC_BioNLP at BioLaySumm is accepted by the 23th BioNLP Workshop co-located with ACL...',
