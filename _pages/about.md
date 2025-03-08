@@ -18,7 +18,7 @@ Some of my current interests include:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: portrait.jpg
   image_circular: true # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
