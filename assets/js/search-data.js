@@ -486,18 +486,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-blogger',
-        title: 'Blogger',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://ischool.illinois.edu/people/zhiwen-jerome-you", "_blank");
-        },
-      },{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/zhiwenyou.bsky.social", "_blank");
+          window.open("https://scholar.google.com/citations?user=CpKf3PMAAAAJ", "_blank");
         },
       },{
         id: 'social-email',
@@ -507,11 +500,25 @@ ninja.data = [{
           window.open("mailto:%7A%68%69%77%65%6E%79%32@%69%6C%6C%69%6E%6F%69%73.%65%64%75", "_blank");
         },
       },{
+        id: 'social-blogger',
+        title: 'Blogger',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ischool.illinois.edu/people/zhiwen-jerome-you", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/zhiwenyou103", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/zhiwenyou.bsky.social", "_blank");
         },
       },{
         id: 'social-x',
