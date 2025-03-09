@@ -28,7 +28,7 @@ ninja.data = [{
           description: "Welcome to my photography collection! Here I share some of my favorite photographs capturing moments and scenes while traveling.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/photograph/";
+            window.location.href = "/photographs/";
           },
         },{id: "post-a-post-with-image-galleries",
       
