@@ -94,6 +94,34 @@ nav_order: 5
 </div>
 
 ---
+<!-- For a single image with caption -->
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photograph/D4E4C732-978F-4901-A923-2E59E3DB64EA-494-00000004A4EB3925.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+   Saphir Odoriko
+</div>
+
+---
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photograph/64A4CE2D-CC56-46F9-ABC5-A9B014505A92-88816-0000194C1BEE856D.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photograph/B7140B9C-340E-40E8-8096-6D0544F95CF7-89109-000019B011DC2D61.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/photograph/D6445289-511F-418A-B959-1323F9933CC6-88816-0000194E13E8F921.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Seattle
+</div>
+
+---
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
