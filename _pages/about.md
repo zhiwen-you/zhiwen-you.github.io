@@ -15,7 +15,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 ---
 
 Hi! I’m a second-year PhD student in Information Sciences at the University of Illinois Urbana-Champaign ([UIUC personal webpage](https://ischool.illinois.edu/people/zhiwen-jerome-you)). I am fortunately co-advised by [Dr. Yue Guo](https://yueguo-50.github.io/) and [Dr. Jana Diesner](https://jdiesnerlab.ischool.illinois.edu/). I also received my Master degree from UIUC. I'm an alumnus of [the Center for Artificial Intelligence Innovation (CAII)](https://ai.ncsa.illinois.edu/) at the National Center for Supercomputing Applications (NCSA).
