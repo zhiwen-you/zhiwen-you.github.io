@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /photographs/
+permalink: /photograph/
 title: Photographs
 description: Welcome to my photography collection! Here I share some of my favorite photographs capturing moments and scenes while traveling.
 nav: true
