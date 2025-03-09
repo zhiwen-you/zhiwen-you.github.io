@@ -464,13 +464,6 @@ ninja.data = [{
           window.open("https://bsky.app/profile/zhiwenyou.bsky.social", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/zhiwen-you", "_blank");
-        },
-      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
