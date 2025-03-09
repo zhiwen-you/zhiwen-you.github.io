@@ -54,18 +54,6 @@ nav_order: 5
 
 ---
 
-<div class="row mt-3"> 
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/photograph/IMG_6065.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-        </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/photograph/DSCF8898.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/photograph/IMG_6584.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/photograph/IMG_6367.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -111,30 +99,12 @@ nav_order: 5
 
 ---
 
-<!-- For a single image with caption -->
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/photograph/IMG_1473.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="caption">
-    Key West
-</div>
-
----
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/photograph/DSCF4427.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/photograph/DSCF4479.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/photograph/DSCF4740.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/photograph/DSCF4748.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/photograph/DSCF4824.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
