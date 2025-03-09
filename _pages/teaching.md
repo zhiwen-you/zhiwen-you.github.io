@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching Assistant
+description: 
 nav: true
 nav_order: 3
 ---
+- IS 504: Sociotechnical Information Systems (Instructor: [Dr. Michael B. Twidale](https://sites.google.com/view/twidale)), UIUC. Spring 2025
+- IS 101: Introduction to Information Sciences (Instructor: [Judith Pintar](https://ischool.illinois.edu/people/judith-pintar)), UIUC. Spring 2024
+- IS 202: Social Aspects of Information Technology (Instructor: [Dr. Madelyn Rose Sanfilippo](https://madelynsanfilippo.com/)), UIUC. Fall 2023
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
