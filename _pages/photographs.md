@@ -7,9 +7,5 @@ nav: true
 nav_order: 5
 ---
 
-
-
-<!-- You can add your photographs here using markdown image syntax or HTML -->
-<!-- Example:
-![Description]({{ '/assets/img/photo1.jpg' | relative_url }})
+![Chicago-Michigan Lake]({{'photograph/DSCF4218.JPG'}})
 --> 
