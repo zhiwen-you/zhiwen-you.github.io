@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /photographs/
-title: photographs
-description: A collection of my photographs
+title: 
+description: 
 nav: true
 nav_order: 5
 ---
