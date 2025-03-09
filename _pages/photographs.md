@@ -10,13 +10,13 @@ nav_order: 5
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="DSCF4218.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/photograph/DSCF4218.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="IMG_6248_jpg.JPG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/photograph/IMG_6248_jpg.JPG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="IMG_6109.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/photograph/IMG_6109.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -26,7 +26,7 @@ nav_order: 5
 <!-- For a single image with caption -->
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="IMG_1473.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/photograph/IMG_1473.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
