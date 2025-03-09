@@ -36,18 +36,6 @@ nav_order: 5
         {% include figure.liquid path="assets/img/photograph/DSCF8381.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/photograph/DSCF8175.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/photograph/DSCF8184.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/photograph/DSCF8288.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
 <div class="caption">
     San Diego
 </div>
