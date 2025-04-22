@@ -384,7 +384,7 @@ ninja.data = [{
           title: 'Submitted two papers to ARR February. Pre-print papers will be available soon!',
           description: "",
           section: "News",},{id: "news-passed-the-phd-qualifying-exam-now-i-officially-become-a-phd-candidate",
-          title: 'Passed the PhD Qualifying Exam! Now I officially become a PhD candidate!',
+          title: 'Passed the PhD Qualifying Exam! Now I officially become a PhD candidate! 🎉...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
