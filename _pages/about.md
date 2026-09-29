@@ -21,13 +21,13 @@ Hi! I’m a PhD candidate in Information Sciences at the University of Illinois 
 
 
 ### Research Interests
-I broadly work within the scope of Natural Language Processing and AI for Health.
+I broadly work within the scope of Natural Language Processing and AI for Healthcare.
 
 Some of my current interests include:
 
-- **Factuality Evaluation and Hallucination Mitigation in NLG**, especially in biomedical and health domains. Standard factuality evaluation approaches fail to evaluate hallucinated but factual information that is not stated in the source documents. How to leverage the domain-specific knowledge to accurately detect such content and mitigate factual errors in LLM-generated summaries?
+- **Trustworthy AI-Assisted Clinical Reasoning**. Clinical decisions demand reasoning that clinicians can inspect and trust, not just accurate answers. I study how to build AI systems that support clinical reasoning through agentic clinical diagnosis workflow, explainable reasoning that exposes how a conclusion is reached, and knowledge-guided reasoning that grounds LLMs in medical evidence.
 
-- **Explainable LLM-based Clinical Reasoning and Evidence-based Decision Support**
+- **Factuality Evaluation and Hallucination Mitigation in NLG**, especially in biomedical and health domains. Standard factuality evaluation approaches fail to evaluate hallucinated but factual information that is not stated in the source documents. How to leverage the domain-specific knowledge to accurately detect such content and mitigate factual errors in LLM-generated summaries?
 
 - **Bias / Fairness of Large Language Models**. LLM-generated content can be biased in various dimensions, such as gender, ethics, morality, and more. How those biases are encoded and produced inside the internal representations of LLMs? Can we modify and control them?
 
